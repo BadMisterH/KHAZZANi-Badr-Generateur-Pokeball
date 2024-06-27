@@ -1,1 +1,0 @@
-# KHAZZANi-Badr-Generateur-Pokeball

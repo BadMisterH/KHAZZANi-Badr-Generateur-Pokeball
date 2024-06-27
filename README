@@ -1,0 +1,13 @@
+# Générateur de Pokéball 3D
+
+## Description
+
+Ce projet permet de générer des Pokéballs 3D dans Maya en utilisant une interface personnalisée créée avec Qt (module PySide2). L'utilisateur peut personnaliser la taille, la couleur, le motif et le type de Pokéball à générer.
+
+## Paramètres
+
+1. **Taille** : Permet de régler la taille de la Pokéball.
+2. **Couleur Principale** : Choix de la couleur principale de la Pokéball.
+3. **Motif** : Sélection du motif appliqué sur la Pokéball.
+4. **Type de Pokéball** : Sélection du type de Pokéball parmi une liste prédéfinie.
+
